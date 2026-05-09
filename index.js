@@ -4,7 +4,6 @@ var randomlinks = [
   'http://www.ambicular.com/',
   'https://demo.marpi.pl/dark_haze/',
   'http://rainyscope.com/',
-  'http://treksit.com/',
   'http://threejs.org/examples/webgl_shaders_ocean.html',
   'http://mrdoob.neocities.org/022/',
   'http://oos.moxiecode.com/js_webgl/spring/',
